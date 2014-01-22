@@ -3,9 +3,7 @@
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
-        android:onClick="onSearchClick"
-        android:showAsAction="ifRoom"
-		android:icon="@drawable/ic_filter_setting"
+        android:showAsAction="never"
         android:title="@string/action_settings"/>
 
 </menu>
